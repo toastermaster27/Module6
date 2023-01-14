@@ -1,0 +1,59 @@
+div {
+  background-color: #F1F1F1;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow:0 1px 1px rgba(0, 0, 0, 0.06), 0 3px 6px rgba(0, 0, 0, 0.03);
+}
+
+h4 {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+
+}
+
+.row-12 {
+  border: 1px solid #CDCDCD;
+  margin: 5px;
+  padding: 5px;
+
+}
+
+ion-icon {
+    color:whitesmoke;
+    --ionicon-stroke-width: 80px;
+  }
+
+li {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+
+header {
+  background-color: #17a2b8;
+  background-image: linear-gradient(to #465AB8, #36368B, #261360);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-right: 20px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  text-shadow:0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);;
+}
+
+
+#WeatherCon {
+  text-align: right;
+}
+.green{
+  background-color: green;
+}
+.yellow{
+  background-color: yellow;
+}
+.orange{
+  background-color: orange;
+}
+.red{
+  background-color: red;
+}
+
+.purple{
+  background-color: purple;
+}
